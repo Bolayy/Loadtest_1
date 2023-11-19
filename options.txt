@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\DELL\Documents\VuGen\Scripts\loadtest_Jumia_Login
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\dell\documents\vugen\scripts\loadtest_jumia_login\\logfile.log
+c:\users\dell\documents\vugen\scripts\loadtest_jumia_login\\combined_loadtest_Jumia_Login.c
+c:\users\dell\documents\vugen\scripts\loadtest_jumia_login\\pre_cci.c
