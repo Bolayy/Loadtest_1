@@ -1,0 +1,15 @@
+﻿[BasicInfo]
+Title=vuser_end_Transaction, 19/11/2023 15:03:34
+Transaction=vuser_end_Transaction
+TimeRangeMin=0.000000
+TimeRangeMax=0.000000
+NumFilters=0
+CorrelatedCharts=VuserStateGraph,ErrorsPerSecondByMessage,ErrorsPerSecond,HitsperSecond,Throughput,PageViewPersec,Connections,ConnectionsPerSecond,WindowsResources,UnixResources,ServerResources,SNMP,SiteScope,NetworkMonitorGraph,Oracle,SQLserver,Sybase
+
+[DimensionFunctions]
+DimeFuncCount=0
+
+[TabSheet]
+Visible=1
+ActivePage=0
+
